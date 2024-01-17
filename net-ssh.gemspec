@@ -1,7 +1,7 @@
 require_relative 'lib/net/ssh/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "net-ssh"
+  spec.name          = "net-ssh-backport"
   spec.version       = Net::SSH::Version::STRING
   spec.authors       = ["Jamis Buck", "Delano Mandelbaum", "Mikl\u{f3}s Fazekas"]
   spec.email         = ["net-ssh@solutious.com"]
